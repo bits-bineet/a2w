@@ -26,6 +26,12 @@ body {
     font-weight: bold;
 }
 
+.logo img {
+    height: 50px; /* Adjust as needed */
+    width: auto; /* Maintains aspect ratio */
+    display: block;
+}
+
 .nav-links {
     list-style: none;
     display: flex;
