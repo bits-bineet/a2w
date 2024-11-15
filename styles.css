@@ -13,7 +13,7 @@ body {
 
 /* Header */
 .header {
-    background: #004080;
+    background: #530080b8;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -104,7 +104,7 @@ h2 {
 
 /* Footer */
 .footer {
-    background: #004080;
+    background: #530080b8;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
